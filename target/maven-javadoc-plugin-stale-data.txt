@@ -1,0 +1,42 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-private
+--release
+25
+-sourcepath
+'C:/Users/12alb/Desktop/Carpeta_Tarea/vega_radillo_alberto_ED04/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/12alb/Desktop/Carpeta_Tarea/vega_radillo_alberto_ED04/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'vega_radillo_alberto_ED04 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'vega_radillo_alberto_ED04 1.0-SNAPSHOT API'
+cuentas
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\src\main\java = 1771585727432
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\allclasses-index.html = 1771621329310
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\allpackages-index.html = 1771621329312
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\element-list = 1771621329277
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\help-doc.html = 1771621329331
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\index-all.html = 1771621329325
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\index.html = 1771621329328
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\member-search-index.js = 1771621329315
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\module-search-index.js = 1771621329313
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\overview-tree.html = 1771621329302
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\package-search-index.js = 1771621329313
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\search.html = 1771621329326
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\tag-search-index.js = 1771621329316
+C:\Users\12alb\Desktop\Carpeta_Tarea\vega_radillo_alberto_ED04\target\reports\apidocs\type-search-index.js = 1771621329314

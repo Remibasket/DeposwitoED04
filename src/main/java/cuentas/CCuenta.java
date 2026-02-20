@@ -33,17 +33,29 @@ public class CCuenta {
         this.tipoInteres = tipo; 
     }
 
-    // GETTERS / SETTERS 
+    // GETTERS / SETTERS  
+/** @return nombre del titular */
     public String getNombre() { return nombre; }
+
+/** @param nombre nuevo nombre del titular */
     public void setNombre(String nombre) { this.nombre = nombre; }
 
+/** @return número de cuenta */
     public String getCuenta() { return cuenta; }
+
+/** @param cuenta nuevo número de cuenta */
     public void setCuenta(String cuenta) { this.cuenta = cuenta; }
 
+/** @return saldo actual */
     public double getSaldo() { return saldo; }
+
+/** @param saldo nuevo saldo */
     public void setSaldo(double saldo) { this.saldo = saldo; }
 
+/** @return tipo de interés */
     public double getTipoInteres() { return tipoInteres; }
+
+/** @param tipoInteres nuevo tipo de interés */
     public void setTipoInteres(double tipoInteres) { this.tipoInteres = tipoInteres; }
 
     /**
